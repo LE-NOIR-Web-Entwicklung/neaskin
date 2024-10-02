@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/neaskin.props" />
+</Project>

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/Jan/Documents/GitHub/neaskin/obj/Debug/net8.0/scopedcss/projectbundle/neaskin.bundle.scp.css",
+      "PackagePath": "staticwebassets/neaskin.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/Jan/Documents/GitHub/neaskin/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/Jan/Documents/GitHub/neaskin/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/Jan/Documents/GitHub/neaskin/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/Jan/Documents/GitHub/neaskin/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.neaskin.props",
+      "PackagePath": "build\\neaskin.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.neaskin.props",
+      "PackagePath": "buildMultiTargeting\\neaskin.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.neaskin.props",
+      "PackagePath": "buildTransitive\\neaskin.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.neaskin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
